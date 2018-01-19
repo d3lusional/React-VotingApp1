@@ -1,0 +1,23 @@
+{
+  "name": "react-votingapp1",
+  "version": "1.0.0",
+  "description": "React-VotingApp1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3lusional/React-VotingApp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3lusional/React-VotingApp1/issues"
+  },
+  "homepage": "https://github.com/d3lusional/React-VotingApp1#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
